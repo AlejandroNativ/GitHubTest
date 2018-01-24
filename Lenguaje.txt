@@ -2,4 +2,4 @@ Lenguajes favoritos:
 
 	- Python
 	- JavaScript
-	- Ruby
+	- C++
