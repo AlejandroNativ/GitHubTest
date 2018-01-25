@@ -3,3 +3,4 @@ Lenguajes favoritos:
 	- Python
 	- JavaScript
 	- C++
+	- Swift
