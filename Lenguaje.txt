@@ -4,4 +4,3 @@ Lenguajes favoritos:
 	- JavaScript
 	- C++
 	- Swift
-	- Ruby
